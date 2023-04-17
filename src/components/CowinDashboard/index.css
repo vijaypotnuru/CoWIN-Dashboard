@@ -1,0 +1,56 @@
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+}
+
+.nav-bar {
+  padding-left: 55px;
+}
+
+.website-logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.website-logo-img {
+  width: 50px;
+  margin-right: 5px;
+}
+
+.website-name {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+}
+
+.charts-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.charts-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+}
+
+.main-heading {
+  color: #ffffff;
+  align-self: flex-start;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-img {
+  width: 500px;
+}
+
+.failure-heading {
+  color: #ffffff;
+}
